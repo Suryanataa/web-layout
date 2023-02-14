@@ -404,4 +404,8 @@ html {
 		z-index: 10;
 	}
 	/* akhir side bar */
+	.wrap {
+		display: block;
+		margin-bottom: 10px;
+	}
 }
